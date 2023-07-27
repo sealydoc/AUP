@@ -30,10 +30,6 @@ We are not refund the money paid for any reason.
 
 # Privacy Policy for specific software SealyDoc.
 
-What information do we collect and what do we do with it? 
-We do not collect any information about you. If you buy subscription to a Pro account, we provide you with access to the functionality of the Pro version.
-How do I get my consent? 
-In order to access your Pro account, you need to pay for the monthly maintenance of the Pro account.
 Disclosure of information 
 We may disclose your personal information if required by law or if you violate our Terms of Service.
 Thinking Our product provides additional features when using a paid pro account. 
