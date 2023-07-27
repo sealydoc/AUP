@@ -1,5 +1,6 @@
 # AUP
-Acceptable Use Policy [Last updated 19.07.2023]
+
+# Acceptable Use Policy [Last updated 19.07.2023]
 
 At sealydoc.com, we are committed to protecting the privacy and security of our users. This privacy policy outlines how we collect, use, and protect the information we gather.
 Information we collect:
